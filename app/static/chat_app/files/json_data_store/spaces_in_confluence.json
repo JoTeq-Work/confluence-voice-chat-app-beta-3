@@ -1,0 +1,156 @@
+[
+    {
+        "space_id": "131074",
+        "space_key": "TESTSPACE",
+        "space_name": "TestSpace"
+    },
+    {
+        "space_id": "2097272",
+        "space_key": "~839183788",
+        "space_name": "Ben Nicholson"
+    },
+    {
+        "space_id": "2162822",
+        "space_key": "~360786360",
+        "space_name": "Tamilarasu Ravi"
+    },
+    {
+        "space_id": "14188546",
+        "space_key": "~492935662",
+        "space_name": "Wale Owoade"
+    },
+    {
+        "space_id": "14647315",
+        "space_key": "~378637176",
+        "space_name": "Aditya Subba"
+    },
+    {
+        "space_id": "19693576",
+        "space_key": "~648868495",
+        "space_name": "Kendrick Mendiola"
+    },
+    {
+        "space_id": "25428043",
+        "space_key": "~381019280",
+        "space_name": "Punit Bakshi"
+    },
+    {
+        "space_id": "27459742",
+        "space_key": "~472779556",
+        "space_name": "Mukul Chopra"
+    },
+    {
+        "space_id": "27492427",
+        "space_key": "~735914054",
+        "space_name": "Chetan Sharma"
+    },
+    {
+        "space_id": "27525405",
+        "space_key": "~601844165",
+        "space_name": "Mayank Sharma"
+    },
+    {
+        "space_id": "31260703",
+        "space_key": "~254948016",
+        "space_name": "Asanet Grigoryan"
+    },
+    {
+        "space_id": "34734181",
+        "space_key": "~507853091",
+        "space_name": "design"
+    },
+    {
+        "space_id": "99516498",
+        "space_key": "~584308273",
+        "space_name": "Sohil Memon"
+    },
+    {
+        "space_id": "143589414",
+        "space_key": "ITSAMPLE",
+        "space_name": "ITSM sample space"
+    },
+    {
+        "space_id": "143654963",
+        "space_key": "MIS",
+        "space_name": "MatriX-iPass Support"
+    },
+    {
+        "space_id": "187006996",
+        "space_key": "~607284364",
+        "space_name": "Harshit"
+    },
+    {
+        "space_id": "190513165",
+        "space_key": "~424906369",
+        "space_name": "Tarun Sharma"
+    },
+    {
+        "space_id": "203751495",
+        "space_key": "~14086909",
+        "space_name": "Vikram Barnwal"
+    },
+    {
+        "space_id": "212303874",
+        "space_key": "~760107595",
+        "space_name": "Swet Nath"
+    },
+    {
+        "space_id": "216072194",
+        "space_key": "~770289378",
+        "space_name": "Rakesh Kumar"
+    },
+    {
+        "space_id": "77502205203",
+        "space_key": "ISMS",
+        "space_name": "Instant 27001 ISMS"
+    },
+    {
+        "space_id": "554018668649",
+        "space_key": "I27701",
+        "space_name": "Instant 27701 add-on"
+    },
+    {
+        "space_id": "628776304642",
+        "space_key": "~22755786",
+        "space_name": "Marian Florentino"
+    },
+    {
+        "space_id": "628779548679",
+        "space_key": "~543029781",
+        "space_name": "Gaurav Kashyap"
+    },
+    {
+        "space_id": "628783842609",
+        "space_key": "~977662232",
+        "space_name": "Tobias Kraus"
+    },
+    {
+        "spaces": [
+            "TestSpace",
+            "Ben Nicholson",
+            "Tamilarasu Ravi",
+            "Wale Owoade",
+            "Aditya Subba",
+            "Kendrick Mendiola",
+            "Punit Bakshi",
+            "Mukul Chopra",
+            "Chetan Sharma",
+            "Mayank Sharma",
+            "Asanet Grigoryan",
+            "design",
+            "Sohil Memon",
+            "ITSM sample space",
+            "MatriX-iPass Support",
+            "Harshit",
+            "Tarun Sharma",
+            "Vikram Barnwal",
+            "Swet Nath",
+            "Rakesh Kumar",
+            "Instant 27001 ISMS",
+            "Instant 27701 add-on",
+            "Marian Florentino",
+            "Gaurav Kashyap",
+            "Tobias Kraus"
+        ]
+    }
+]

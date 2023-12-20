@@ -1,0 +1,134 @@
+[
+    {
+        "space_id": "3901751",
+        "space_name": "football",
+        "pages": [
+            {
+                "page_number": 1,
+                "page_id": "3835101",
+                "page_title": "UEFA Champions League",
+                "page_content": "It is a football competition played in Europe. Make change here."
+            },
+            {
+                "page_number": 2,
+                "page_id": "3901825",
+                "page_title": "football Home",
+                "page_content": "#E3FCEF Welcome to your new space! Spaces help your team structure, organize, and share work, so every team member has visibility into institutional knowledge and access to the information they need to do their best work.   Get started with the basics Start editing this page:   11 incomplete Click the pencil icon \u270f\ufe0f or e on your keyboard to edit and start typing. You can edit anywhere.   13 incomplete Hit / to see all the types of content you can add to your page. Try /image or /table   14 incomplete Use the toolbar at the top to play around with font, colors, formatting, and more   15 incomplete Click close to save your draft or publish when your page is ready to be shared         \ud83e\ude84 Need some inspiration?    Check out our Confluence best practices guide.   Get a quick intro into what spaces are and how to best use them at Set up your site and spaces.   Check out our guide for ideas on how to set up your space overview.   If starting from a blank space is daunting, try using one of the space templates instead.  "
+            },
+            {
+                "page_number": 3,
+                "page_id": "4423706",
+                "page_title": "Python development",
+                "page_content": "A detailed description of best practices for Python developers. Python development change"
+            },
+            {
+                "page_number": 4,
+                "page_id": "4423724",
+                "page_title": "JavaScript's development",
+                "page_content": "JavaScript is an essential programming language for web development. Here are some best practices to follow when developing JavaScript applications:  1. Use meaningful variable and function names to improve code readability.  2. Follow the DRY (Don't Repeat Yourself) principle by avoiding duplicated code.  3. Use strict mode to enforce stricter rules for writing JavaScript code.  4. Always declare variables with the 'let' or 'const' keywords to avoid global scope pollution.  5. Use arrow functions to write concise and readable code.  6. Avoid using the 'eval' function as it can introduce security vulnerabilities.  7. Handle errors with try-catch blocks to prevent the application from crashing.  8. Use proper indentation and formatting to enhance code readability.  By following these best practices, you can write clean, maintainable, and efficient JavaScript code for your web applications.Changes to this page by Virendra"
+            }
+        ]
+    },
+    {
+        "space_id": "4227076",
+        "space_name": "testone",
+        "pages": [
+            {
+                "page_number": 1,
+                "page_id": "4227163",
+                "page_title": "testone Home",
+                "page_content": "#E3FCEF Welcome to your new space! Spaces help your team structure, organize, and share work, so every team member has visibility into institutional knowledge and access to the information they need to do their best work.   Get started with the basics Start editing this page:   11 incomplete Click the pencil icon \u270f\ufe0f or e on your keyboard to edit and start typing. You can edit anywhere.   13 incomplete Hit / to see all the types of content you can add to your page. Try /image or /table   14 incomplete Use the toolbar at the top to play around with font, colors, formatting, and more   15 incomplete Click close to save your draft or publish when your page is ready to be shared         \ud83e\ude84 Need some inspiration?    Check out our Confluence best practices guide.   Get a quick intro into what spaces are and how to best use them at Set up your site and spaces.   Check out our guide for ideas on how to set up your space overview.   If starting from a blank space is daunting, try using one of the space templates instead.  "
+            },
+            {
+                "page_number": 2,
+                "page_id": "4227297",
+                "page_title": "Test One Page",
+                "page_content": "Page for test one"
+            },
+            {
+                "page_number": 3,
+                "page_id": "4227311",
+                "page_title": "Alfonso is the CEO of Nano Matrix",
+                "page_content": "Alfonso is a great CEO."
+            }
+        ]
+    },
+    {
+        "space_id": "4259855",
+        "space_name": "testtwo",
+        "pages": [
+            {
+                "page_number": 1,
+                "page_id": "4260061",
+                "page_title": "testtwo Home",
+                "page_content": "#E3FCEF Welcome to your new space! Spaces help your team structure, organize, and share work, so every team member has visibility into institutional knowledge and access to the information they need to do their best work.   Get started with the basics Start editing this page:   11 incomplete Click the pencil icon \u270f\ufe0f or e on your keyboard to edit and start typing. You can edit anywhere.   13 incomplete Hit / to see all the types of content you can add to your page. Try /image or /table   14 incomplete Use the toolbar at the top to play around with font, colors, formatting, and more   15 incomplete Click close to save your draft or publish when your page is ready to be shared         \ud83e\ude84 Need some inspiration?    Check out our Confluence best practices guide.   Get a quick intro into what spaces are and how to best use them at Set up your site and spaces.   Check out our guide for ideas on how to set up your space overview.   If starting from a blank space is daunting, try using one of the space templates instead.  "
+            },
+            {
+                "page_number": 2,
+                "page_id": "4423681",
+                "page_title": "Test Two Page",
+                "page_content": "Page for test two"
+            }
+        ]
+    },
+    {
+        "space_id": "4423768",
+        "space_name": "Software",
+        "pages": [
+            {
+                "page_number": 1,
+                "page_id": "4227479",
+                "page_title": "Git Steps",
+                "page_content": " Step 1: Initialize a local Git repository  $ git init  Step 2: Add files to the staging area  $ git add .  Step 3: Commit the changes  $ git commit -m 'Initial commit'  Step 4: Create a remote repository on GitHub  - Go to GitHub and create a new repository  Step 5: Add the remote repository  $ git remote add origin <repository-url>  Step 6: Push the code to GitHub  $ git push -u origin master "
+            },
+            {
+                "page_number": 2,
+                "page_id": "4260543",
+                "page_title": "Python Development Guidelines",
+                "page_content": "Best practices in writing Python code: Change made by me. - Use meaningful variable names that convey the purpose of the variable. - Follow the PEP 8 style guide for Python code to maintain readability. - Write comments where necessary to explain complex pieces of code. - Use docstrings to document functions and classes. - Keep functions and classes short and focused on a single responsibility. - Handle exceptions properly to avoid unexpected crashes. - Write tests to ensure your code works as expected and to prevent regressions. - Use version control to track changes and collaborate with others.  Code snippet example for a simple function:  def greet(name):     \"\"\"Greets the user by name.      Args:         name (str): The name of the user.     Returns:         None     \"\"\"     print(f'Hello, {name}!')  greet('Alice') "
+            },
+            {
+                "page_number": 3,
+                "page_id": "4423961",
+                "page_title": "Software Home",
+                "page_content": "#E3FCEF Welcome to your new space! Spaces help your team structure, organize, and share work, so every team member has visibility into institutional knowledge and access to the information they need to do their best work.   Get started with the basics Start editing this page:   11 incomplete Click the pencil icon \u270f\ufe0f or e on your keyboard to edit and start typing. You can edit anywhere.   13 incomplete Hit / to see all the types of content you can add to your page. Try /image or /table   14 incomplete Use the toolbar at the top to play around with font, colors, formatting, and more   15 incomplete Click close to save your draft or publish when your page is ready to be shared         \ud83e\ude84 Need some inspiration?    Check out our Confluence best practices guide.   Get a quick intro into what spaces are and how to best use them at Set up your site and spaces.   Check out our guide for ideas on how to set up your space overview.   If starting from a blank space is daunting, try using one of the space templates instead.  "
+            }
+        ]
+    },
+    {
+        "space_id": "4784130",
+        "space_name": "Book",
+        "pages": [
+            {
+                "page_number": 1,
+                "page_id": "4784204",
+                "page_title": "Book Home",
+                "page_content": "#E3FCEF Welcome to your new space! Spaces help your team structure, organize, and share work, so every team member has visibility into institutional knowledge and access to the information they need to do their best work.   Get started with the basics Start editing this page:   11 incomplete Click the pencil icon \u270f\ufe0f or e on your keyboard to edit and start typing. You can edit anywhere.   13 incomplete Hit / to see all the types of content you can add to your page. Try /image or /table   14 incomplete Use the toolbar at the top to play around with font, colors, formatting, and more   15 incomplete Click close to save your draft or publish when your page is ready to be shared         \ud83e\ude84 Need some inspiration?    Check out our Confluence best practices guide.   Get a quick intro into what spaces are and how to best use them at Set up your site and spaces.   Check out our guide for ideas on how to set up your space overview.   If starting from a blank space is daunting, try using one of the space templates instead.  "
+            }
+        ]
+    },
+    {
+        "space_id": "4882434",
+        "space_name": "Jew",
+        "pages": [
+            {
+                "page_number": 1,
+                "page_id": "4882508",
+                "page_title": "Jew Home",
+                "page_content": "#E3FCEF Welcome to your new space! Spaces help your team structure, organize, and share work, so every team member has visibility into institutional knowledge and access to the information they need to do their best work.   Get started with the basics Start editing this page:   11 incomplete Click the pencil icon \u270f\ufe0f or e on your keyboard to edit and start typing. You can edit anywhere.   13 incomplete Hit / to see all the types of content you can add to your page. Try /image or /table   14 incomplete Use the toolbar at the top to play around with font, colors, formatting, and more   15 incomplete Click close to save your draft or publish when your page is ready to be shared         \ud83e\ude84 Need some inspiration?    Check out our Confluence best practices guide.   Get a quick intro into what spaces are and how to best use them at Set up your site and spaces.   Check out our guide for ideas on how to set up your space overview.   If starting from a blank space is daunting, try using one of the space templates instead.  "
+            }
+        ]
+    },
+    {
+        "space_id": "5537795",
+        "space_name": "virendra_vaishnav",
+        "pages": [
+            {
+                "page_number": 1,
+                "page_id": "5537995",
+                "page_title": "Overview",
+                "page_content": " Say hello to your colleagues who want to know your name, pronouns, role, team and location (or if you're remote).    \ud83d\udcc4 Recent pages that I've worked on  5  5titles  \ud83d\udd90 Get in touch  \u2709\ufe0f Insert your email here \ud83d\udcbc Insert your LinkedIn URL here  \ud83d\udd17 Insert your Twitter handle here \ud83d\udc64 Insert your Medium profile here  End with a bang! Some options are: \"I am so grateful to be here at <Insert company name> and very excited to get started!\" or \"Looking forward to meeting all of you!\" or \"Can't wait to get to know all of you!\" "
+            }
+        ]
+    }
+]

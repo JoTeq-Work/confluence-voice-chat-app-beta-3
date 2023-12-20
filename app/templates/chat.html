@@ -1,0 +1,20 @@
+{% extends 'layout.html' %}
+{% block content %}
+    <div class="container">
+        <div class="card text-center mt-3">
+            <div class="card-header">
+                Chat
+            </div>
+            <div id="assistantMessageOutput" class="card-body">
+            </div>
+        </div>
+        <form method="POST" id="formConnect">
+            <div>
+                <!--<textarea class="form-control" placeholder="Add input here" name="input" rows="3"></textarea>-->
+                
+            <audio id="audioPlayer"></audio>
+            <button id="chatBtn" class="btn btn-success mt-1" type="submit">Click to Speak</button>
+            </div>
+        </form>
+    </div>
+{% endblock %}
